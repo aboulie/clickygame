@@ -1,0 +1,17 @@
+.banner {
+    background-image: url('../../images/bg.png') !important;
+    height: 250px;
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: center;
+    color: rgb(253, 6, 142);
+    font-size: 38px;
+    font-family: 'Pacifico', cursive;
+
+  }
+  
+  @media (min-width: 576px) {
+    .banner {
+      font-size: calc(10px + 14 * (100vw - 320px) / 800);
+    }
+  }
