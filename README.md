@@ -1,6 +1,6 @@
 # Sergei Eisenstein Clicky Game (Memory Game using React)
 
-View the completed app on Heroku <a href="http://bit.ly/roseclickygame">here</a>
+View the completed app on Heroku <a href="hhttps://murmuring-peak-44491.herokuapp.com/">Here</a>
 
 Clicky Game is an app that lets you attempt to choose a scene from one of Eisenstein's films without choosing the same scene twice. After the player chooses a scene, the scene cards are shuffled and then the player can choose again. If the player chooses a scene that has previously been chosen, the game ends and the player may start over. If a score is higher than a previous one, then the new score is entered into high score in the Nav bar. 
 
